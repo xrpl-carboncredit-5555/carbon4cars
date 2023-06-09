@@ -1,0 +1,140 @@
+.vinform{
+    position:relative; 
+    color: black;  
+    padding: 8px 25px;
+    top: 18px; 
+    height: 443px; 
+    width: 297px; 
+    left: 95px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(165, 167, 153);
+    z-index: 399;
+}
+
+.creditsform{
+    position:relative; 
+    color: black;  
+    padding: 8px 25px;
+    top: -423px; 
+    height: 443px; 
+    width: 297px; 
+    left: 565px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(165, 167, 153);
+    z-index: 399;
+}
+
+.ammform{
+    position:relative; 
+    color: black;  
+    padding: 8px 25px;
+    top: -865px; 
+    height: 443px; 
+    width: 355px; 
+    left: 1025px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(165, 167, 153);
+    z-index: 399;
+}
+
+#descAMM{
+    font-size: 12px;
+    line-height: 1.3;
+    border-radius: 0;
+    background-color: rgb(220, 223, 206);
+    color: blue;
+    box-shadow: none;
+}
+
+#submit {
+    position: relative;
+    top: -45px;
+    right: 0px;
+    height: 35px;
+    width: 170px;
+    border-radius: 10px;
+    padding: 1px;
+    z-index: 400;
+}
+
+#submit2 {
+    position: relative;
+    top: 390px;
+    right: -100px;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    padding: 1px;
+    z-index: 400;
+}
+
+#submit3 {
+    position: relative;
+    top: 390px;
+    right: -100px;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    padding: 1px;
+    z-index: 400;
+}
+
+#myCanvas {
+    position: relative;
+    height: 230px;
+    width: 350px;
+    top: 20px;
+    left: -6px;
+    border: 1px solid rgb(14, 13, 13); 
+}
+
+#search {
+    position: relative;
+    top: 93px;
+    left: 305px;
+    height: 25px;
+    width: 60px;
+    border-radius: 3px;
+    padding: 1px;
+    z-index: 500;
+}
+
+#trade {
+    position: relative;
+    top: 146px;
+    right: -720px;
+    height: 25px;
+    width: 60px;
+    border-radius: 3px;
+    padding: 1px;
+    z-index: 500;
+}
+
+#wallet {
+    position: relative;
+    top: 390px;
+    left: 638px;
+    width: 150px;
+    height: 25px;
+    border-radius: 3px;
+    padding: 1px;
+    z-index: 500;
+}
+
+#reconnect {
+    position: relative;
+    top: 394px;
+    left: 790px;
+    width: 25px;
+    height: 25px;
+    border-radius: 3px;
+    padding: 1px;
+    z-index: 500;
+}
+
