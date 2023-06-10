@@ -74,14 +74,17 @@ automatically regulated by the AMM allowing for less volatile trading.  The 'Tra
    
 Next Steps 
 -------
-May put some text in here that mentions that this project has great pot\ential and heres how to expand it
-   *	Next step 1
-   *	Next step 2
-   *	Next step 3
-   *	Next step 4
-   *	Next step 5
-   *	Next step 6
+Next steps and additional ways a VIN-centric NFT can add value to the automotive ecosystems with a focus on consumer, retailer, and manufacturer blockchain integrations:
 
+1.	Provenance and Authenticity:
+Consumers: Assures them of the vehicle's history, including ownership and maintenance records, for informed purchasing decisions.
+Retailers: Enables them to guarantee the authenticity of the vehicles they sell.
+Manufacturers: Allows for tracking of the vehicle throughout its lifecycle to maintain brand reputation.
+	
+2.	Secure and Immutable Record Keeping:
+Consumers: Provides a tamper-proof record of their vehicle's history, beneficial for insurance and resale.
+Retailers: Simplifies and secures record-keeping.
+Manufacturers: Facilitates efficient recall processes and targeted maintenance services.
 
 Built With
 ----------
@@ -93,6 +96,6 @@ Built With
 
 Contact
 -------
-Jim Flint - [jim@localsearchgroup.com](mailto:blocklagoon@gmail.com)
+Jim Flint - [jim@localsearchgroup.com](mailto:jim@localsearchgroup.com)
 
 LinkedIn - [https://www.linkedin.com/in/jimflint/]
