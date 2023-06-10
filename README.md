@@ -8,9 +8,13 @@ Table of Contents
 
 What is Carbon Credits for Cars
 -----------------
-_**Carbon Credits for Cars**_ is Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_**Carbon Credits for Cars**_ At the intersection of stringent privacy laws and technological innovation, the automotive industry faces a timely opportunity. Many have embraced blockchain technology, often accentuating customer-centric applications to improve transparency and trust. Yet, an untapped reservoir lies dormant within a vehicle-centric approach - specifically, tokenizing Vehicle Identification Numbers (VINs) via a pivot in perspective.
 
-View the web application here: [https://demos.d33gh5yazkl6vi.amplifyapp.com/]
+By centering on vehicles, not customers, we construct a model that respects evolving privacy laws while unlocking substantive benefits. The ecosystem will gain trusted  insight into the vehicle's comprehensive carbon history, fostering informed purchases and enhancing safety. Dealers provide transparent service records, establishing trust with consumers and streamlining operations. Manufacturers glean granular insights into vehicle performance and longevity, securing and sharing valuable data that informs and transforms future production choices.
+
+An innovative twist on the environmental, social, and governance (ESG) front, this vehicle-centric blockchain approach enables precise tracking of each vehicle's lifecycle impact. This capability could revolutionize the industry's approach to sustainability, empowering manufacturers with tools to quantify and curtail their vehicles' environmental footprint.
+
+View the prototype web application here: [https://demos.d33gh5yazkl6vi.amplifyapp.com/]
 
 Getting Started
 ---------------
@@ -26,11 +30,9 @@ formatted for desktop. Ultimately the application will be deployed and formatted
     *   FireFox
     *   Edge
 
-
 How Carbon Credits for Cars Works
 --------------------
-![image info](./img/ccc_app3.jpg)
-The project demo is built using React.js and consists of two primary UI elements: the **VIN Search screen**, 
+The project demo is built using React.js and consists of two primary UI elements initially: the **VIN Search screen**, 
 and the **Purchase Carbon Credits screen**. https://youtu.be/Id_sJefLL5o
 
 **VIN Search screen--**
