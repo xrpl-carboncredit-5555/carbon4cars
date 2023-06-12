@@ -33,7 +33,7 @@ formatted for desktop. Ultimately the application will be deployed and formatted
 How Carbon Credits for Cars Works
 --------------------
 The project demo is built using React.js and consists of two primary UI elements initially: the **VIN Search screen**, 
-and the **Purchase Carbon Credits screen**. https://youtu.be/Id_sJefLL5o
+and the **Purchase Carbon Credits screen**. https://youtu.be/Wku3KzEyUro
 
 **VIN Search screen--**
    This is the initial UI element and allows the user to enter a VIN (vehicle identification number) and search
