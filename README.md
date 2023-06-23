@@ -24,7 +24,7 @@ The _**Carbon Credits for Cars**_ UI application has been deployed on AWS as a w
 installation or configuration is required.  This web service application serves as a 
 demo and is designed to be a 'sandbox' that can be used to demonstrate the functionality 
 of Carbon Credits for Cars.  For demonstration purposes, the UI web page will be displayed on a browser
-formatted for desktop. Ultimately the application will be deployed and formatted for mobile devices. 
+formatted for a desktop. Ultimately the application will be deployed and formatted for mobile devices. 
 
 *   Supported Browsers:
     *   Chrome
@@ -35,7 +35,7 @@ formatted for desktop. Ultimately the application will be deployed and formatted
 How Carbon Credits for Cars Works
 --------------------
 The project demo is built using React.js and consists of two primary UI elements initially: the **VIN Search screen**, 
-and the **Purchase Carbon Credits screen**. https://youtu.be/Wku3KzEyUro
+and the **Purchase Carbon Credits screen**. https://youtu.be/7E8OB8-MAPw
 
 **VIN Search screen--**
    This is the initial UI element and allows the user to enter a VIN (vehicle identification number) and search
