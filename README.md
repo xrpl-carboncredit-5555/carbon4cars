@@ -1,5 +1,5 @@
 Table of Contents
-1.  [What Are Carbon Credits for Cars](#what-are-carbon-credits-for-cars)
+1.  [What are Carbon Credits for Cars](#what-are-carbon-credits-for-cars)
 2.  [Getting Started](#getting-started)
 3.  [How Carbon Credits for Cars Works](#how-carbon-credits-for-cars-works)
 4.  [Next Steps](#next-steps)
