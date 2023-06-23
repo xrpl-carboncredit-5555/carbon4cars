@@ -14,9 +14,9 @@ By centering on vehicles, not customers, we construct a model that respects evol
 
 An innovative twist on the environmental, social, and governance (ESG) front, this vehicle-centric blockchain approach enables precise tracking of each vehicle's lifecycle impact. This capability could revolutionize the industry's approach to sustainability, empowering manufacturers with tools to quantify and curtail their vehicles' environmental footprint.
 
-![ccc_app3](https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/c644d133-d0da-4eb5-8c55-b3dfbc4aa7d9)
+<img width="1421" alt="Carbon Cars website image" src="https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/3440a6e9-2ccc-4544-9cae-69191bd1bc6c">
 
-View the web application here: [https://demos.d33gh5yazkl6vi.amplifyapp.com/]
+View the prototype user interface web application here: [https://demos.d33gh5yazkl6vi.amplifyapp.com/]
 
 Getting Started
 ---------------
