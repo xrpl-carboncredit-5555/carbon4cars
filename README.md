@@ -1,12 +1,12 @@
 Table of Contents
-1.  [What Is Carbon Credits for Cars](#what-is-carbon-credits-for-cars)
+1.  [What Are Carbon Credits for Cars](#what-are-carbon-credits-for-cars)
 2.  [Getting Started](#getting-started)
 3.  [How Carbon Credits for Cars Works](#how-carbon-credits-for-cars-works)
 4.  [Next Steps](#next-steps)
 5.  [Built With](#built-with)
 6.  [Contact](#contact)
 
-What is Carbon Credits for Cars
+What are Carbon Credits for Cars
 -----------------
 _**Carbon Credits for Cars**_ At the intersection of stringent privacy laws and technological innovation, the automotive industry faces a timely opportunity. Many have embraced blockchain technology, often accentuating customer-centric applications to improve transparency and trust. Yet, an untapped reservoir lies dormant within a vehicle-centric approach - specifically, tokenizing Vehicle Identification Numbers (VINs) via a pivot in perspective.
 
@@ -39,8 +39,8 @@ and the **Purchase Carbon Credits screen**. https://youtu.be/Wku3KzEyUro
 
 **VIN Search screen--**
    This is the initial UI element and allows the user to enter a VIN (vehicle identification number) and search
-   for information about that VIN.  Note: in this application the user is restricted to a predefined list of
-   VINs.  Ulitmately, the user will enter their VIN and the search function will retreive information from a
+   for information about that VIN.  Note: in this application, the user is restricted to a predefined list of
+   VINs.  Ultimately, the user will enter their VIN and the search function will retrieve information from a
    publicly available API.
    
    *	Step 1 - Input Text Box. The user can enter/paste their VIN of interest.  All VINs are unique and require a specific format.
@@ -54,7 +54,7 @@ and the **Purchase Carbon Credits screen**. https://youtu.be/Wku3KzEyUro
    *	Step 4 - Buy Carbon Credits button.  A user can select a purchaser account from the dropdown list and then select a quantity of carbon credits to purchase and apply to the selected VIN as tokens created specifically for this project.  A token has been issued on the XRP Ledger called 'CCC' with an initial count of 690000 tokens.
 This token will represent carbon credits that have been purchased from selected carbon markets.
 The Carbon Credits for Cars application will allow users to purchase these tokens and apply 
-them to a specific VIN for the purpose of offsetting vehicle CO2 emmisions.
+them to a specific VIN for the purpose of offsetting vehicle CO2 emissions.
    	
 **VINs Minted as NFTs--**
   When carbon credits are initially purchased for a VIN, an NFT is created on the XRP Ledger that represents
