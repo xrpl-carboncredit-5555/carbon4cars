@@ -101,6 +101,6 @@ Built With
 
 Contact
 -------
-Jim Flint - [jim@localsearchgroup.com](mailto:jim@localsearchgroup.com)
+Jim Flint - jimflint12@gmail.com
 
 LinkedIn - [https://www.linkedin.com/in/jimflint/]
