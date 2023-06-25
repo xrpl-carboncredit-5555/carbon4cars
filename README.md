@@ -60,21 +60,21 @@ them to a specific VIN for the purpose of offsetting vehicle CO2 emissions.
 **VINs Minted as NFTs--**
   When carbon credits are initially purchased for a VIN, an NFT is created on the XRP Ledger that represents
 the VIN as a unique asset.  The metadata associated with the NFT is stored in a Ceramic decentralized
-database with the following JSON schema.  Notice the data for 2 VINs is shown.  Each VIN has a total token count that represents 
-the total number of tokens that have been purchased by one or multiple XRPL accounts.  For a VIN, 
+database with the following JSON schema.  Notice the data for 2 VINs is shown.  Each VIN has a total token count representing
+the total number of tokens purchased by one or multiple XRPL accounts.  For a VIN, 
 each member of the credits array represents a purchase of ‘X’ number of tokens for a particular XRPL 
 account (and the date purchased).  During the ‘purchase event’ in the UI application, this schema 
 gets updated for the appropriate VIN and CCC tokens on XRPL are transferred from the issuer account 
-to purchaser account.
+to the purchaser account.
  
- ![scheme](https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/87c3b3a7-c30e-4f64-8414-6e057f269ccc)
+<img width="468" alt="image" src="https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/96a3fb68-ca0b-4d85-977a-741c16602907">
  
  **AMM Trading Pair--**
    To allow users to easily trade their CCC tokens within the XRP Ledger, an AMM (Automated Market Maker)
-function will be developed with CCC/XRP as trading pairs.  Exchange rates between the two tokens is
-automatically regulated by the AMM allowing for less volatile trading.  The 'Trade' button on the Purchase Carbon Credits screen will activate another UI screen that allows users to actively trade between the two tokens.
+function will be developed with CCC/XRP as trading pairs.  The AMM automatically regulates exchange rates between the two tokens, allowing for less volatile trading.  The 'Trade' button on the Purchase Carbon Credits screen will activate another UI screen that allows users to trade between the two tokens actively.
    
    ![amm](https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/130591c8-32a9-4634-b228-f43de89fdd9a)
+
 
    
 Next Steps 
