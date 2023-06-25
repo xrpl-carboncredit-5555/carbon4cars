@@ -24,8 +24,8 @@ Getting Started
 The _**Carbon Credits for Cars**_ UI application has been deployed on AWS as a web service.  No
 installation or configuration is required.  This web service application serves as a 
 demo and is designed to be a 'sandbox' that can be used to demonstrate the functionality 
-of Carbon Credits for Cars.  For demonstration purposes, the UI web page will be displayed on a browser
-formatted for a desktop. Ultimately the application will be deployed and formatted for mobile devices. 
+of Carbon Credits for Cars.  The UI web page will be displayed on a browser
+formatted for a desktop for demonstration purposes. Ultimately the application will be deployed and formatted for mobile devices. 
 
 *   Supported Browsers:
     *   Chrome
@@ -52,7 +52,9 @@ and the **Purchase Carbon Credits screen**. https://youtu.be/7E8OB8-MAPw
    
 **Purchase Carbon Credits screen--**
      This UI screen displays the total count of carbon credits that have been purchased for the selected VIN by one or multiple XRPL user accounts.  This screen also allows the user to purchase initial or additional carbon credits for the selected VIN.  Note: for demonstration purposes, a selection between two XRPL user accounts is provided.  In production, this would be replaced by connecting a wallet.
+
    *	Step 4 - Buy Carbon Credits button.  A user can select a purchaser account from the dropdown list and then select a quantity of carbon credits to purchase and apply to the selected VIN as tokens created specifically for this project.  A token has been issued on the XRP Ledger called 'CCC' with an initial count of 690000 tokens.
+
 This token will represent carbon credits that have been purchased from selected carbon markets.
 The Carbon Credits for Cars application will allow users to purchase these tokens and apply 
 them to a specific VIN for the purpose of offsetting vehicle CO2 emissions.
@@ -73,10 +75,8 @@ to the purchaser account.
    To allow users to easily trade their CCC tokens within the XRP Ledger, an AMM (Automated Market Maker)
 function will be developed with CCC/XRP as trading pairs.  The AMM automatically regulates exchange rates between the two tokens, allowing for less volatile trading.  The 'Trade' button on the Purchase Carbon Credits screen will activate another UI screen that allows users to trade between the two tokens actively.
    
-   ![amm](https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/130591c8-32a9-4634-b228-f43de89fdd9a)
+![amm](https://github.com/xrpl-carboncredit-5555/carbon4cars/assets/135251325/5e890e86-85b0-430e-a032-ffc302787a39)
 
-
-   
 Next Steps 
 -------
 Next steps and additional ways a VIN-centric NFT can add value to the automotive ecosystems with a focus on consumer, retailer, and manufacturer blockchain integrations:
